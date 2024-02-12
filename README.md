@@ -20,6 +20,6 @@
 - Infidelity
 - A Breakup
 
-![Mr. & Mrs. Smith ](Mr. & Mrs. Smith.jpg).
+![Mr. & Mrs. Smith ]([Mr. & Mrs. Smith.jpg](https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_%282024_TV_series%29#/media/File:Mr._&_Mrs._Smith_(2024_TV_series)_poster.jpg)).
 
 To learn more about Mr. and Mrs. Smith, vist the [official website] (https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_%282024_TV_series%29).
